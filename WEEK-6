@@ -59,4 +59,4 @@ hours = float(input("Enter Hours:"))
 rate = float(input("Enter Rate:"))
 
 p = computepay(hours,rate)
-print(p)
+print("Pay",p)

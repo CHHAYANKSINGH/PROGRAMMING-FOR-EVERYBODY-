@@ -52,7 +52,7 @@ if h > 40 :
     rate1 = (rate * 1.5) * (h-40)
     
 pay = ((h-5)*rate) + rate1
-print('pay')
+print(pay)
 
 3.3 Write a program to prompt for a score between 0.0 and 1.0.
 If the score is out of range, print an error.
